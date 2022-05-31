@@ -8,3 +8,4 @@ function logCRP() {
   var stats = document.getElementById("crp-stats");
   stats.textContent = 'DCL: ' + dcl + 'ms, onload: ' + complete + 'ms';
 }
+
